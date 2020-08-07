@@ -1,0 +1,4 @@
+# robots.txt
+User-agent: *
+Sitemap: https://zykj.js.org/sitemap.xml
+Sitemap: https://zykj.js.org/baidusitemap.xml
