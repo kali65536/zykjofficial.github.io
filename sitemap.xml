@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zykj.js.org/posts/a9e8a85d/</loc>
+    
+    <lastmod>2020-08-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zykj.js.org/shuoshuo/index.html</loc>
+    
+    <lastmod>2020-08-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zykj.js.org/about/index.html</loc>
+    
+    <lastmod>2020-08-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zykj.js.org/link/index.html</loc>
     
     <lastmod>2020-08-08</lastmod>
@@ -16,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://zykj.js.org/posts/a9e8a85d/</loc>
-    
-    <lastmod>2020-08-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zykj.js.org/posts/e55bad60/</loc>
     
     <lastmod>2020-08-05</lastmod>
@@ -33,13 +47,6 @@
     <loc>https://zykj.js.org/posts/e297feab/</loc>
     
     <lastmod>2020-08-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zykj.js.org/about/index.html</loc>
-    
-    <lastmod>2020-08-04</lastmod>
     
   </url>
   
@@ -145,13 +152,6 @@
     <loc>https://zykj.js.org/posts/906e6f9d/</loc>
     
     <lastmod>2020-07-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zykj.js.org/shuoshuo/index.html</loc>
-    
-    <lastmod>2020-07-16</lastmod>
     
   </url>
   
@@ -550,20 +550,6 @@
   </url>
   
   <url>
-    <loc>https://zykj.js.org/tags/Vue-Router/</loc>
-    <lastmod>2020-08-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zykj.js.org/tags/Vuex/</loc>
-    <lastmod>2020-08-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zykj.js.org/tags/Android/</loc>
     <lastmod>2020-08-08</lastmod>
     <changefreq>daily</changefreq>
@@ -572,6 +558,20 @@
   
   <url>
     <loc>https://zykj.js.org/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zykj.js.org/tags/Vue-Router/</loc>
+    <lastmod>2020-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zykj.js.org/tags/Vuex/</loc>
     <lastmod>2020-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
