@@ -3,7 +3,7 @@
   <title>卓越科技的Blog</title>
   <icon>https://zykj.js.org/img/favicon.ico</icon>
   <subtitle>卓越人生、只为科技。</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://zykj.js.org/atom.xml" rel="self"/>
   
   <link href="https://zykj.js.org/"/>
   <updated>2020-08-08T15:23:13.000Z</updated>
@@ -23,19 +23,17 @@
     <published>2020-08-05T12:20:13.000Z</published>
     <updated>2020-08-08T15:23:13.000Z</updated>
     
-    <summary type="html">
     
-      学习了Vue的基础知识、了解一下Vue的响应式原理吧
-    
-    </summary>
+    <summary type="html">学习了Vue的基础知识、了解一下Vue的响应式原理吧</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
     
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
   </entry>
   
@@ -46,25 +44,23 @@
     <published>2020-08-04T09:28:23.000Z</published>
     <updated>2020-08-04T09:28:23.000Z</updated>
     
-    <summary type="html">
     
-      我们学习了Vue相关的知识、现在我们通过一个项目来巩固知识
-    
-    </summary>
+    <summary type="html">我们学习了Vue相关的知识、现在我们通过一个项目来巩固知识</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
-      <category term="Vue-Router" scheme="https://zykj.js.org/tags/Vue-Router/"/>
+    <category term="Vue-Router" scheme="https://zykj.js.org/tags/Vue-Router/"/>
     
-      <category term="Vuex" scheme="https://zykj.js.org/tags/Vuex/"/>
+    <category term="Vuex" scheme="https://zykj.js.org/tags/Vuex/"/>
     
   </entry>
   
@@ -75,21 +71,19 @@
     <published>2020-08-01T13:54:21.000Z</published>
     <updated>2020-08-01T13:54:21.000Z</updated>
     
-    <summary type="html">
     
-      大二下 上课学习的笔记、总结一下、只是基础。
-    
-    </summary>
+    <summary type="html">大二下 上课学习的笔记、总结一下、只是基础。</summary>
     
     
-      <category term="Java" scheme="https://zykj.js.org/categories/Java/"/>
     
-      <category term="Android" scheme="https://zykj.js.org/categories/Java/Android/"/>
+    <category term="Java" scheme="https://zykj.js.org/categories/Java/"/>
+    
+    <category term="Android" scheme="https://zykj.js.org/categories/Java/Android/"/>
     
     
-      <category term="Android" scheme="https://zykj.js.org/tags/Android/"/>
+    <category term="Android" scheme="https://zykj.js.org/tags/Android/"/>
     
-      <category term="学习" scheme="https://zykj.js.org/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://zykj.js.org/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -100,21 +94,19 @@
     <published>2020-07-28T12:27:14.000Z</published>
     <updated>2020-07-28T12:27:14.000Z</updated>
     
-    <summary type="html">
     
-      这里记录这我看过的动漫、满满的回忆、持续更新中
-    
-    </summary>
+    <summary type="html">这里记录这我看过的动漫、满满的回忆、持续更新中</summary>
     
     
-      <category term="动漫" scheme="https://zykj.js.org/categories/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="动漫" scheme="https://zykj.js.org/categories/%E5%8A%A8%E6%BC%AB/"/>
     
     
-      <category term="动漫" scheme="https://zykj.js.org/tags/%E5%8A%A8%E6%BC%AB/"/>
+    <category term="动漫" scheme="https://zykj.js.org/tags/%E5%8A%A8%E6%BC%AB/"/>
     
-      <category term="二次元" scheme="https://zykj.js.org/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
+    <category term="二次元" scheme="https://zykj.js.org/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
     
-      <category term="回忆" scheme="https://zykj.js.org/tags/%E5%9B%9E%E5%BF%86/"/>
+    <category term="回忆" scheme="https://zykj.js.org/tags/%E5%9B%9E%E5%BF%86/"/>
     
   </entry>
   
@@ -125,25 +117,23 @@
     <published>2020-07-18T13:48:26.000Z</published>
     <updated>2020-07-18T13:48:26.000Z</updated>
     
-    <summary type="html">
     
-      通过简单的小项目、学习一下ElementUi与SpringBoot
-    
-    </summary>
+    <summary type="html">通过简单的小项目、学习一下ElementUi与SpringBoot</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="ElementUi" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="ElementUi" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
-      <category term="ElementUi" scheme="https://zykj.js.org/tags/ElementUi/"/>
+    <category term="ElementUi" scheme="https://zykj.js.org/tags/ElementUi/"/>
     
-      <category term="SpringBoot" scheme="https://zykj.js.org/tags/SpringBoot/"/>
+    <category term="SpringBoot" scheme="https://zykj.js.org/tags/SpringBoot/"/>
     
   </entry>
   
@@ -154,23 +144,21 @@
     <published>2020-07-17T13:26:58.000Z</published>
     <updated>2020-07-18T13:26:58.000Z</updated>
     
-    <summary type="html">
     
-      网站快速成型工具、对于我这样比较懒的人、需要看视频记笔记
-    
-    </summary>
+    <summary type="html">网站快速成型工具、对于我这样比较懒的人、需要看视频记笔记</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="ElementUi" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="ElementUi" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
-      <category term="ElementUi" scheme="https://zykj.js.org/tags/ElementUi/"/>
+    <category term="ElementUi" scheme="https://zykj.js.org/tags/ElementUi/"/>
     
   </entry>
   
@@ -181,21 +169,19 @@
     <published>2020-07-12T02:03:48.000Z</published>
     <updated>2020-07-12T02:03:48.000Z</updated>
     
-    <summary type="html">
     
-      Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。
-    
-    </summary>
+    <summary type="html">Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Axios" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Axios/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Axios" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Axios/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Axios" scheme="https://zykj.js.org/tags/Axios/"/>
+    <category term="Axios" scheme="https://zykj.js.org/tags/Axios/"/>
     
   </entry>
   
@@ -206,21 +192,19 @@
     <published>2020-07-11T02:59:51.000Z</published>
     <updated>2020-07-11T02:59:51.000Z</updated>
     
-    <summary type="html">
     
-      Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。
-    
-    </summary>
+    <summary type="html">Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
   </entry>
   
@@ -231,21 +215,19 @@
     <published>2020-07-08T13:02:16.000Z</published>
     <updated>2020-07-08T13:02:16.000Z</updated>
     
-    <summary type="html">
     
-      好久之前在B站刷视频看到了一个使用CSS写新拟态效果的、最近又看到用Pr的、记笔记。
-    
-    </summary>
+    <summary type="html">好久之前在B站刷视频看到了一个使用CSS写新拟态效果的、最近又看到用Pr的、记笔记。</summary>
     
     
-      <category term="教程" scheme="https://zykj.js.org/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="教程" scheme="https://zykj.js.org/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="CSS" scheme="https://zykj.js.org/tags/CSS/"/>
+    <category term="CSS" scheme="https://zykj.js.org/tags/CSS/"/>
     
-      <category term="Pr" scheme="https://zykj.js.org/tags/Pr/"/>
+    <category term="Pr" scheme="https://zykj.js.org/tags/Pr/"/>
     
-      <category term="教程" scheme="https://zykj.js.org/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://zykj.js.org/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -256,21 +238,19 @@
     <published>2020-07-06T02:53:26.000Z</published>
     <updated>2020-07-06T02:53:26.000Z</updated>
     
-    <summary type="html">
     
-      Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。 Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型。
-    
-    </summary>
+    <summary type="html">Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。 Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型。</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Nodejs" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Nodejs/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Nodejs" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Nodejs/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Nodejs" scheme="https://zykj.js.org/tags/Nodejs/"/>
+    <category term="Nodejs" scheme="https://zykj.js.org/tags/Nodejs/"/>
     
   </entry>
   
@@ -281,21 +261,19 @@
     <published>2020-07-04T13:16:11.000Z</published>
     <updated>2020-07-04T13:16:11.000Z</updated>
     
-    <summary type="html">
     
-      Ajax是指一种创建交互式、快速动态网页应用的网页开发技术，无需重新加载整个网页的情况下，能够更新部分网页的技术。
-    
-    </summary>
+    <summary type="html">Ajax是指一种创建交互式、快速动态网页应用的网页开发技术，无需重新加载整个网页的情况下，能够更新部分网页的技术。</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="AJAX" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/AJAX/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="AJAX" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/AJAX/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="AJAX" scheme="https://zykj.js.org/tags/AJAX/"/>
+    <category term="AJAX" scheme="https://zykj.js.org/tags/AJAX/"/>
     
   </entry>
   
@@ -306,21 +284,19 @@
     <published>2020-07-01T12:24:54.000Z</published>
     <updated>2020-07-01T12:24:54.000Z</updated>
     
-    <summary type="html">
     
-      Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。
-    
-    </summary>
+    <summary type="html">Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
   </entry>
   
@@ -331,21 +307,19 @@
     <published>2020-06-27T14:26:37.000Z</published>
     <updated>2020-06-27T14:26:37.000Z</updated>
     
-    <summary type="html">
     
-      学了Vue的基础、开始使用脚手架了。
-    
-    </summary>
+    <summary type="html">学了Vue的基础、开始使用脚手架了。</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
   </entry>
   
@@ -356,19 +330,17 @@
     <published>2020-06-15T15:20:47.000Z</published>
     <updated>2020-08-01T15:20:47.000Z</updated>
     
-    <summary type="html">
     
-      总结遇到的软件问题、以及解决办法
-    
-    </summary>
+    <summary type="html">总结遇到的软件问题、以及解决办法</summary>
     
     
-      <category term="电脑教程" scheme="https://zykj.js.org/categories/%E7%94%B5%E8%84%91%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="电脑教程" scheme="https://zykj.js.org/categories/%E7%94%B5%E8%84%91%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="电脑" scheme="https://zykj.js.org/tags/%E7%94%B5%E8%84%91/"/>
+    <category term="电脑" scheme="https://zykj.js.org/tags/%E7%94%B5%E8%84%91/"/>
     
-      <category term="问题" scheme="https://zykj.js.org/tags/%E9%97%AE%E9%A2%98/"/>
+    <category term="问题" scheme="https://zykj.js.org/tags/%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
@@ -379,21 +351,19 @@
     <published>2020-06-15T15:02:38.000Z</published>
     <updated>2020-06-15T15:02:38.000Z</updated>
     
-    <summary type="html">
     
-      学了Vue的基本语法、开始学习前端模块化打包工具
-    
-    </summary>
+    <summary type="html">学了Vue的基本语法、开始学习前端模块化打包工具</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="webpack" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/webpack/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="webpack" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/webpack/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="webpack" scheme="https://zykj.js.org/tags/webpack/"/>
+    <category term="webpack" scheme="https://zykj.js.org/tags/webpack/"/>
     
   </entry>
   
@@ -404,21 +374,19 @@
     <published>2020-06-09T14:53:44.000Z</published>
     <updated>2020-06-09T14:53:44.000Z</updated>
     
-    <summary type="html">
     
-      继续学习Vue
-    
-    </summary>
+    <summary type="html">继续学习Vue</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
   </entry>
   
@@ -429,21 +397,19 @@
     <published>2020-06-07T03:14:59.000Z</published>
     <updated>2020-06-07T03:14:59.000Z</updated>
     
-    <summary type="html">
     
-      开始学习Vue了、学习...
-    
-    </summary>
+    <summary type="html">开始学习Vue了、学习...</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     
   </entry>
   
@@ -454,19 +420,17 @@
     <published>2020-06-03T13:04:41.000Z</published>
     <updated>2020-06-03T13:04:41.000Z</updated>
     
-    <summary type="html">
     
-      用于总结MySQL学习的笔记、怕忘记
-    
-    </summary>
+    <summary type="html">用于总结MySQL学习的笔记、怕忘记</summary>
     
     
-      <category term="数据库学习" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="MySQL" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MySQL/"/>
+    <category term="数据库学习" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="MySQL" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MySQL/"/>
     
     
-      <category term="MySQL" scheme="https://zykj.js.org/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://zykj.js.org/tags/MySQL/"/>
     
   </entry>
   
@@ -477,23 +441,21 @@
     <published>2020-05-30T13:42:08.000Z</published>
     <updated>2020-05-30T13:42:08.000Z</updated>
     
-    <summary type="html">
     
-      折腾了一天的跨域问题、终于得到了答案
-    
-    </summary>
+    <summary type="html">折腾了一天的跨域问题、终于得到了答案</summary>
     
     
-      <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-      <category term="跨域" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/%E8%B7%A8%E5%9F%9F/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="跨域" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/%E8%B7%A8%E5%9F%9F/"/>
     
     
-      <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="后端" scheme="https://zykj.js.org/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://zykj.js.org/tags/%E5%90%8E%E7%AB%AF/"/>
     
-      <category term="跨域" scheme="https://zykj.js.org/tags/%E8%B7%A8%E5%9F%9F/"/>
+    <category term="跨域" scheme="https://zykj.js.org/tags/%E8%B7%A8%E5%9F%9F/"/>
     
   </entry>
   
@@ -504,21 +466,19 @@
     <published>2020-05-30T03:37:06.000Z</published>
     <updated>2020-08-05T03:37:06.000Z</updated>
     
-    <summary type="html">
     
-      怕忘记这些样式该如何写、写篇文章总结一下。
-    
-    </summary>
+    <summary type="html">怕忘记这些样式该如何写、写篇文章总结一下。</summary>
     
     
-      <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Butterfly" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/Butterfly/"/>
+    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Butterfly" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/Butterfly/"/>
     
     
-      <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
     
-      <category term="Butterfly" scheme="https://zykj.js.org/tags/Butterfly/"/>
+    <category term="Butterfly" scheme="https://zykj.js.org/tags/Butterfly/"/>
     
   </entry>
   
