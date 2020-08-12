@@ -6,7 +6,7 @@
   <link href="https://zykj.js.org/atom.xml" rel="self"/>
   
   <link href="https://zykj.js.org/"/>
-  <updated>2020-08-08T15:23:13.000Z</updated>
+  <updated>2020-08-12T14:25:24.000Z</updated>
   <id>https://zykj.js.org/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nuxt.js 学习</title>
+    <link href="https://zykj.js.org/posts/e400c46/"/>
+    <id>https://zykj.js.org/posts/e400c46/</id>
+    <published>2020-08-12T14:25:24.000Z</published>
+    <updated>2020-08-12T14:25:24.000Z</updated>
+    
+    
+    <summary type="html">Nuxt.js 是一个基于 Vue.js 的通用应用框架。通过对客户端/服务端基础架构的抽象组织，Nuxt.js 主要关注的是应用的 UI 渲染。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="前端" scheme="https://zykj.js.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
+    
+    <category term="Nuxt.js" scheme="https://zykj.js.org/tags/Nuxt-js/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue响应式原理解读</title>
@@ -456,29 +481,6 @@
     <category term="后端" scheme="https://zykj.js.org/tags/%E5%90%8E%E7%AB%AF/"/>
     
     <category term="跨域" scheme="https://zykj.js.org/tags/%E8%B7%A8%E5%9F%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于Butterfly主题魔改的样式查阅</title>
-    <link href="https://zykj.js.org/posts/e297feab/"/>
-    <id>https://zykj.js.org/posts/e297feab/</id>
-    <published>2020-05-30T03:37:06.000Z</published>
-    <updated>2020-08-05T03:37:06.000Z</updated>
-    
-    
-    <summary type="html">怕忘记这些样式该如何写、写篇文章总结一下。</summary>
-    
-    
-    
-    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Butterfly" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/Butterfly/"/>
-    
-    
-    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
-    
-    <category term="Butterfly" scheme="https://zykj.js.org/tags/Butterfly/"/>
     
   </entry>
   
